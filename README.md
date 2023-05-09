@@ -49,6 +49,7 @@ const limiter = rateLimit({
   max: 5,
 });
 ```
+- here i only created single endpoint , but we need to create  all services  endpoint like bookingservice
 ## Microservices i Created
 [Flight Search Service Repo](https://github.com/vishnupal/Flight_And_Search_Service)
 
